@@ -16,8 +16,8 @@ Mini SNS is a simple social networking service (SNS) application. Users can enjo
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/bc8c/mini-sns-proj.git
-   cd mini-sns
+   git clone https://github.com/bc8c/mini-sns-course.git
+   cd DAY16/mini-sns
    ```
 
 2. **Install Dependencies**
